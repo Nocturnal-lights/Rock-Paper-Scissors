@@ -1,0 +1,1 @@
+A simple user interface to play rock, paper,scissor. It made use of Tkinter which is a python binding to TK GUI toolkit, which is python de facto standard GUI.
